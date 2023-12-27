@@ -21,19 +21,20 @@ h2 {
 .container {
     max-width: 80%;
     margin:auto;
+    margin-top:50%;
     background:goldenrod;
     border: 3px solid black;
     border-radius: 10px; 
 }
 
 button {
+    border: none;
     padding-top: 10px;
     padding-bottom: 10px;
     color: black;
     font-weight: bold;
-    margin-bottom:10px;
-    margin-left:50px; 
-    margin-right:50px; 
+    width: 160px;
+    margin-bottom: 10px;
     border-radius: 10px;
     border: 2px solid chocolate;
 }
@@ -44,5 +45,6 @@ button {
 
 #save-btn {
     background: yellow;
+    
 }
 
